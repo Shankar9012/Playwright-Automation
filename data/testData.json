@@ -1,0 +1,19 @@
+{
+  "firstName": "Shankar",
+  "lastName": "Das",
+  "email": "Test@gmail.com",
+  "invalidemail":"Test@gmail",
+  "gender": "Male",
+  "mobile": "9824705529",
+  "invalidmobile": "Tester123",
+  "dob": {
+    "year": 1990,
+    "month": 7,
+    "day": 10
+  },
+  "subjects": "Maths",
+  "picturePath": "data/images.jpg",
+  "address": "Address",
+  "state": "NCR",
+  "city": "Delhi"
+}

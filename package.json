@@ -1,0 +1,18 @@
+{
+  "name": "covergo",
+  "version": "1.0.0",
+  "description": "Automation script task for UI , Crud operation and APi's",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.19"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}

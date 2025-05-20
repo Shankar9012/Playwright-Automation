@@ -1,0 +1,9 @@
+{
+  "firstName": "Data",
+  "lastName": "data",
+  "email": "test@gmail.com",
+  "age": "30",
+  "salary": "25000",
+  "department": "Department",
+  "editedFirstName": "edited data"
+}
